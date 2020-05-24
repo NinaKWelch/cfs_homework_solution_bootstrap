@@ -2,11 +2,14 @@
 
 ## Module 5
 
-Homework starter template for Bootstrap
+Homework solution with Bootstrap
 
-## Bootstrap
+## Demo
 
-Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains CSS- and JavaScript-based design templates for typography, forms, buttons, navigation, and other interface components.
+https://ninakwelch.github.io/homework_solution_bootstrap/
 
-- [Introduction](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
-- [Components](https://getbootstrap.com/docs/4.5/components/)
+## Screenshots
+
+![](https://res.cloudinary.com/ninaw/image/upload/c_scale,h_570/v1590145134/homework_solution_bootstrap_1_qganyc.png) ![](https://res.cloudinary.com/ninaw/image/upload/c_scale,h_570/v1590323488/homework_solution_bootstrap_2_whyioz.png)
+
+![](https://res.cloudinary.com/ninaw/image/upload/c_scale,h_570/v1590288664/homework_solution_bootstrap_3.html_foqhl9.png) ![](https://res.cloudinary.com/ninaw/image/upload/c_scale,h_570/v1590288680/homework_solution_bootstrap_4_moo6nj.png)
